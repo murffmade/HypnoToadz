@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0xDA6Adf94b7Ee1BE562B236ef89360C52028c26e9",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xda6adf94b7ee1be562b236ef89360c52028c26e9",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "eth",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "HypnoToadz OGC",
   "SYMBOL": "HTOGC",

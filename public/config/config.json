@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xDA6Adf94b7Ee1BE562B236ef89360C52028c26e9",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xda6adf94b7ee1be562b236ef89360c52028c26e9",
+  "CONTRACT_ADDRESS": "0x370DbFd99547bd6f3D5b509f2fc2D462d7d96A94",
+  "SCAN_LINK": "https://etherscan.io/address/0x370dbfd99547bd6f3d5b509f2fc2d462d7d96a94",
   "NETWORK": {
-    "NAME": "rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "eth",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "HypnoToadz OGC",
   "SYMBOL": "HTOGC",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hypnotoadz-ogc-v2",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hypnotoadz-ogc",
   "SHOW_BACKGROUND": true
 }
